@@ -1,5 +1,8 @@
 [package]
-distribution = "2201.0.3"
+org = "seralahthan"
+name = "dbtosf_project"
+version = "0.1.0"
+distribution = "2201.7.0"
 
 [build-options]
 observabilityIncluded = true
